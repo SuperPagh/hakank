@@ -1,5 +1,3 @@
-package org.jcp.jsr331.hakan;
-
 /**
  *
  * Diet problem in JSR331.
@@ -48,6 +46,8 @@ package org.jcp.jsr331.hakan;
  * See also http://www.hakank.org/jsr_331/
  *
  */
+
+
 
 import javax.constraints.*;
 
